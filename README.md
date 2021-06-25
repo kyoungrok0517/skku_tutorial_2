@@ -30,9 +30,9 @@ All the packages can be installed using the following command:
 ### Instructors
 
 * Jang, Kyoung-Rok (PhD student in KAIST IR & NLP)
-  * Email: kyoungrok.jang@kaist.ac.kr
+  * Email: kyoungrok.jang (at) kaist.ac.kr
 * Kim, Jeonghwan (MS student in KAIST IR & NLP)
-  * Email: jeonghwankim123@kaist.ac.kr
+  * Email: jeonghwankim123 (at) kaist.ac.kr
 
 ### Acknowledge
 
