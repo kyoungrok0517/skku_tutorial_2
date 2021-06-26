@@ -18,14 +18,14 @@ First, we recommend you to install [Anaconda distribution of Python](https://www
   
 All the packages can be installed using the following command:
 
-* `pip install -U numpy scikit-learn pandas gensim seaborn spacy pyLDAvis`
+* `pip install -r requirements.txt`
 * `python -m spacy download en_core_web_sm`
 * `python -m nltk.downloader popular`
 
 ### Tutorial Files
 
-* Jupyter notebooks: 
-* Datasets: data/sms.tsv, data/yelp.csv
+* Jupyter notebooks: 1_scikit_learn.ipynb, 2_topic_modeling.ipynb, 3_exercise.ipynb
+* Datasets: data/sms.tsv, data/yelp.csv, data/newsgroups.json, data/lemmatized.pkl, data/lda.model
 
 ### Instructors
 
